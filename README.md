@@ -1,10 +1,10 @@
-#About Project
+# About Project
 
 ## Front-end
 Reactjs, Formik, Yup, Material-UI, Bootstrap etc.
 ## Back-end
 Loopback Framework (Node Js), Redux, Rest API, MongoDB etc.
-##Features
+## Features
 Register-login, blogs/posts, comment section, separate interface for admin & user, Role-based CRUD operations etc.
 
 # Getting Started with Create React App
