@@ -1,9 +1,9 @@
 # **About Project**
 
 ## **Front-end**
-> Reactjs, Formik, Yup, Material-UI, Bootstrap etc.
+> Reactjs, Redux, Formik, Yup, Material-UI, Bootstrap etc.
 ## **Back-end**
-> Loopback Framework (Node Js), Redux, Rest API, MongoDB etc.
+> Loopback Framework (Node Js), Rest API, MongoDB etc.
 ## **Features**
 > Register-login, blogs/posts, comment section, separate interface for admin & user, Role-based CRUD operations etc.
 
